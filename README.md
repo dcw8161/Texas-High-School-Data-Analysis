@@ -1,2 +1,2 @@
 # Texas-High-School-Data-Analysis
-The project is based on Texas Highschool data for the year of 2020 to make machine learning model to predict the performance of schools and school districts for future years.  
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/48637798/148806503-aaf90f95-53e0-46a1-a611-528c258d8d88.png">
