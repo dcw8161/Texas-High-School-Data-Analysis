@@ -23,5 +23,19 @@
 <img width="843" alt="image" src="https://user-images.githubusercontent.com/48637798/148812778-0ea88525-24a4-43bb-80e1-4fcf0930b5cd.png">
 <img width="846" alt="image" src="https://user-images.githubusercontent.com/48637798/148812536-67c1111d-a5e5-474f-8a79-1ce4d7f1820c.png">
 
+## Correlation of Variables with Standard Score
+<img width="748" alt="image" src="https://user-images.githubusercontent.com/48637798/148813273-e73399b7-a380-4cb0-a717-86ac9c43dbd8.png">
+
+## High School Chi-Squared Test Analysis
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/48637798/148813377-57e736a4-d219-447b-9db4-44b676ccff67.png">
+
+## Machine Learning Models and Evaluation
+<img width="866" alt="image" src="https://user-images.githubusercontent.com/48637798/148813468-8ab88ab1-db6f-4c61-9917-a8f2f248ae16.png">
+
+## Tableau Link
+https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/TexasHighSchoolPerformance/Story1?publish=yes
+
+
+
 
 
