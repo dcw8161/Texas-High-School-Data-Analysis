@@ -33,7 +33,7 @@
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/48637798/148813468-8ab88ab1-db6f-4c61-9917-a8f2f248ae16.png">
 
 ## Tableau Link
-[Texas Highschool Performance](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/TexasHighSchoolPerformance/Story1?publish=yes)
+[Texas Highschool Performance](https://public.tableau.com/app/profile/darshika.keerthisinghe/viz/TexasHighSchoolPerformance/Dashboard3?publish=yes)
 
 
 
